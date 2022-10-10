@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#scp -r mapreduce aryamanm09@ip:F:\BigData
+#scp -r mapreduce aryamanm09@ip:path
 
 echo "Enter File or Folder name: "
 read f_name
