@@ -2,7 +2,7 @@ Installation
 
 Make an empty folder
 
-<code>mkdir shellScripts<code>
+<code>mkdir shellScripts</code>
 
 <code>cd shellScripts</code>
 
