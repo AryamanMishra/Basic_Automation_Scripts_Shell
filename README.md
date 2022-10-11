@@ -3,8 +3,8 @@
 Make an empty folder
 
 ```
-   mkdir shellScripts
-   cd shellScripts
+mkdir shellScripts
+cd shellScripts
 ```
 
 Clone the repository -
