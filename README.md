@@ -1,30 +1,30 @@
-<h>Installation -</h>
+Installation 
 
 Make an empty folder
 
-<code>mkdir shellScripts <code>
+mkdir shellScripts 
 
-<code>cd shellScripts <code>
+cd shellScripts
 
-Clone the repository - 
+Clone the repository -
 
-<code>git clone https://github.com/AryamanMishra/Basic_Automation_Scripts_Shell.git <code>
+git clone https://github.com/AryamanMishra/Basic_Automation_Scripts_Shell.git 
 
-Get the path - 
+Get the path -
 
-<code>pwd
+pwd
 
 Edit bashrc file -
 
-<code>gedit ~/.bashrc <code>
+gedit ~/.bashrc
 
 Add the following line in the end
 
-<code> export PATH=$PATH:"the path you copied above" <code>
+export PATH=$PATH:"the path you copied above" 
 
 Save the file and run
 
-<code> source ~/.bashrc <code>
+source ~/.bashrc 
 
 (Note : If the above procedure doesnt work try doing the same with .zshrc file)
 
