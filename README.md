@@ -40,6 +40,7 @@ source ~/.bashrc
 (Note : If the above procedure doesnt work try doing the same with .zshrc file)
 
 Now you can run all the scripts listed inside shellScripts folder from anywhere in your file system. 
+<br>
 For example to transfer files through scp command you can run
 ```
 $ doscp.sh
