@@ -3,8 +3,8 @@
 Make an empty folder
 
 ```
-mkdir shellScripts
-cd shellScripts
+mkdir your_folder_name
+cd your_folder_name
 ```
 
 Clone the repository -
@@ -16,6 +16,7 @@ git clone https://github.com/AryamanMishra/Basic_Automation_Scripts_Shell.git
 Get the path -
 
 ```
+cd shellScripts
 pwd
 ```
 

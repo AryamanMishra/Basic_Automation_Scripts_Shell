@@ -45,7 +45,6 @@ else
 			fi
 		done
 		
-		echo $lastslash
 		echo ""
 		
 		# cropping path p uptil last slash using cut command
