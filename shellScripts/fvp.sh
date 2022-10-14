@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# A shell script to find and view permissions(fvp) of any file in your file system 
+# A bash script to find and view permissions(fvp) of any file in your file system 
 # without actually moving in the root where the file is (i.e) view permissions globally
 # If multiple files by the same name exists the program will prompt you to choose one 
 
