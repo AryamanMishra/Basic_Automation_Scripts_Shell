@@ -16,7 +16,7 @@ git clone https://github.com/AryamanMishra/Basic_Automation_Scripts_Shell.git
 Get the path -
 
 ```
-cd shellScripts
+cd Basic_Automation_Scripts_Shell/shellScripts 
 pwd
 ```
 
