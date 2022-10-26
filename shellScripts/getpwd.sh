@@ -80,6 +80,7 @@ else
 		echo "Please enter a valid response"
 	fi
 
+	echo "Password: "
 	echo $passwd
 fi
 
