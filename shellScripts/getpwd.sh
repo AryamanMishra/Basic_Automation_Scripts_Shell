@@ -18,7 +18,7 @@ declare -a alpha=("a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p
 	
 declare -a alphaCap=("A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z")
 
-declare -a spec=("!" "@" "#" "%" "*")
+declare -a spec=("!" "@" "#" "%" "*" "?" "-")
 
 
 # checking input length
